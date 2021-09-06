@@ -4,13 +4,13 @@ import { Link } from 'gatsby'
 import Layout from '../components/layout'
 
 // Step 2: Define your component
-const IndexPage = () => {
-  return (
-      <Layout pageTitle="Home page">      
-        <p>Home page</p>
-      </Layout>
-  )
+const AboutPage = () => {
+    return (
+        <Layout pageTitle="About me page">
+            <p>About page</p>
+        </Layout>
+    )
 }
 
 // Step 3: Export your component
-export default IndexPage
+export default AboutPage
