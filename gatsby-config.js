@@ -12,5 +12,7 @@ module.exports = {
         trackingId: "G-2SMHBK6FTJ",
       },
     },
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp"
   ],
 };
